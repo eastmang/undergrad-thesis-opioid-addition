@@ -17,8 +17,8 @@ work finds that legalization significantly reduces the rate of admittance for op
 ---
 
 This work used data from the Treatment Episode DataSet -Admissions, or TEDS-A. This is a federally made and maintained dataset
-on all treatment facilities that have taken federal funding. Since the money is essentially free as long as the facilities
-record information on those admitted (de-individualized) this is free money so nearly all facilities are in this data. 
+on all treatment facilities that have taken federal funding. The money is essentially free as long as the facilities
+record information on those admitted (de-individualized)nearly all US facilities are in this data. 
 
 This work used a difference-in-differences model to garner a causal estimate. This model is reasoned through by the idea
 that if there are two areas following the same trends and one has a policy applied to it while the other does not, the 
@@ -34,7 +34,7 @@ repo.
 # Analysis
 
 This work found that legalizing marijuana led to a statistically significant decrease in opioid abuse. Additionally,
-it performed a subsample analysis for the african-american community which demonstrated a larger magnitude drop in 
+it performed a subsample analysis for the african-american community which demonstrated a larger magnitude drop in opioid
 addiction from medical legalization. These findings are discussed more in depth in the paper. Below is a graph that shows
 the drop of admittance for opioid addiction in the year around a state legalizing marijuana. 
 
